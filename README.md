@@ -8,6 +8,7 @@ Christian Jericho P. Loquillano - Fourth-year Bachelor of Science in Information
 
 ## Technologies used
 
+- Codex
 - HTML5
 - CSS3
 - JavaScript
