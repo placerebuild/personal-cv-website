@@ -28,4 +28,4 @@ Open `index.html` in a browser, or serve the folder with any static web server.
 
 ## Live site
 
-Vercel deployment link: To be added after deployment.
+Vercel deployment link: https://cjlvirtualcv.vercel.app/
